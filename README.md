@@ -1,1 +1,1 @@
-# Cancerous-tumour-detection-using-Machine-Learning
+Simple machine learning application that classifies the benign/malignant nature of a tumour. Performed in-depth data analysis on the dataset using python libraries such as Seaborn and Matplotlib to better understand the correlation between the independent variables and target variables, Implemented different classifier algorithms such as Support Vector machines, K means Clustering and Decision trees and obtained an accuracy report to determine the optimal classifier algorithm.
